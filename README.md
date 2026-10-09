@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Aspiring Software Developer 🚀<br>💻 C++ | DSA | Full-Stack Development<br>🌐 HTML • CSS • JavaScript • React<br>⚙️ Node.js • Express.js • MongoDB • SQL<br>🔥 Learning Daily | Building Real-World Projects<br>🎯 Goal: Become Industry-Ready 
+👨🏻‍💻 Aspiring Software Developer 🚀<br>💻 JAVA | DSA | Full-Stack Development<br>🌐 HTML • CSS • JavaScript • React<br>⚙️ Node.js • Express.js • MongoDB • SQL<br>🔥 Learning Daily | Building Real-World Projects<br>🎯 Goal: Become Industry-Ready 
 
 
 ## 🌐 Socials:
